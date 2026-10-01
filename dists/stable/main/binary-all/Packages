@@ -1,0 +1,14 @@
+Package: nexus0-manager
+Version: 1.0.0
+Architecture: all
+Maintainer: Siaro santiago108749753@gmail.com
+Depends: bash (>= 4.0), default-jre | java-runtime, debconf
+Filename: pool/main/nexus0.deb
+Size: 5052
+MD5sum: cd813e665447ccb8940ce397694b4e6d
+SHA1: b823101e4e2140cd93b1e75211f2b694c145b244
+SHA256: 069145fea5e6e403fd409081cce6a9feb42775fceded20eb2c7d0feb648b2279
+Section: games
+Priority: optional
+Description: Gestor dinámico de servidores Minecraft para la network.
+

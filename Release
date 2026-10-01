@@ -1,0 +1,8 @@
+cat <<EOF > ~/nexus0/dists/stable/Release
+Origin: Nexus0 Network
+Label: Nexus0 APT
+Codename: stable
+Architectures: arm64 all
+Components: main
+Description: Repositorio oficial de la network Nexus0
+EOF
